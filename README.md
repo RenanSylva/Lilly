@@ -1,5 +1,5 @@
 # Lilly
-Um Assistente Virtual I'm Python
+Um Assistente Virtual Python
 
 Foco:
   Fácil de aprender.
